@@ -22,10 +22,10 @@ This repository contains my personal portfolio website, showcasing selected UI/U
 
 ## Live Website
 
-https://yourusername.github.io/portfolio/
+-
 
 ## Contact
 
 Feel free to connect if you'd like to collaborate or discuss design opportunities.
 
-LinkedIn: https://linkedin.com/in/your-profile
+www.linkedin.com/in/arundev-a-300674252
